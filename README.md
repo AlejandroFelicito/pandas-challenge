@@ -113,4 +113,4 @@ Scores by School Type (5 points)
 Written Report (15 points)
 
 ## Credits 
-N/A 
+Received comments and guidance from Learning Assistant 
